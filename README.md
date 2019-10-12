@@ -1,2 +1,2 @@
-# DSA-LAB-WORK
+# dsa-LAB-WORK
 as part of DSA lab course work
